@@ -1,0 +1,22 @@
+
+{
+  "manifest_version": 2,
+  "name": "Currency Exchange",
+  "version": "1.0",
+
+  "description": "This is a FireFox extention that will change each currency on the page into your selected currency",
+
+  "background":{
+    "scripts": ["currencyExchange.js"]
+  },
+
+  "premissions":[
+    "webNavigation",
+    "storage"
+  ],
+  "browser_action":{
+    "defualt_icon": "logo.png",
+    "default_title": "Currency Exchange",
+    "default_popup": "currencies.html"    
+  }
+}
