@@ -14,8 +14,10 @@
     "webNavigation",
     "storage"
   ],
+  "icons": {
+    "48": "logo.png"
+  },
   "browser_action":{
-    "defualt_icon": "logo.png",
     "default_title": "Currency Converter",
     "default_popup": "currencies.html"    
   }
