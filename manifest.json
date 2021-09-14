@@ -7,7 +7,7 @@
   "description": "This is a FireFox extention that will change each currency on the page into your selected currency",
 
   "background":{
-    "scripts": ["currencyExchange.js"]
+    "scripts": ["popup.js"]
   },
 
   "premissions":[
@@ -16,7 +16,7 @@
   ],
   "browser_action":{
     "defualt_icon": "logo.png",
-    "default_title": "Currency Exchange",
+    "default_title": "Currency Converter",
     "default_popup": "currencies.html"    
   }
 }
