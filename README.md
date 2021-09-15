@@ -155,6 +155,7 @@ Project Link: [Currency Converter](https://github.com/Bomrzoq/Currency_Converter
 <img src="https://raw.githubusercontent.com/Bomrzoq/Currency_Converter/main/assets/Firefox_Addon.png"  height="540" style="display: inline;"/>
 </p>
 -------------------------------------
+
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
