@@ -108,12 +108,6 @@ This project require not installation or prerequisites
 This is a Firefox extension that will display the current price for the selected currency and depending on the selected output for the currency will give its value.
 
 
-<p align="center" float="left">
-<img src="https://raw.githubusercontent.com/Bomrzoq/Enseyab-Profile-App/main/assets/images/Home_Page.jpg"  height="540" style="display: inline;"/>
-<img src="https://raw.githubusercontent.com/Bomrzoq/Enseyab-Profile-App/main/assets/images/Our_Systems_Page.jpg"  height="540" style="display: inline;"/>
-<img src="https://raw.githubusercontent.com/Bomrzoq/Enseyab-Profile-App/main/assets/images/Contact_Us_Page.jpg"  height="540" style="display: inline;"/>
-</p>
-
 
 
 
